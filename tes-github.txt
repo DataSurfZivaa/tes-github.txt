@@ -24,3 +24,14 @@ tes-github.txt
 
 tes-github.txt
 tes-github.txt
+
+git push -u origin main
+
+git push -u origin main
+git push -u origin main
+
+git push -u origin main
+
+test 1 2 3
+123
+1233
